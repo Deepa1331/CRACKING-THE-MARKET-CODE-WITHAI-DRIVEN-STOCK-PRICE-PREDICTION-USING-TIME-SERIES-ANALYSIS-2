@@ -1,3 +1,4 @@
+# CRACKING THE MARKET CODE WITHAI-DRIVEN STOCK PRICE PREDICTION USING TIME SERIES ANALYSIS 
 # 📈 Stock Price Prediction Using LSTM 🚀
 
 Welcome to the **Stock Price Prediction** project! This repository implements a powerful Long Short-Term Memory (LSTM) neural network to forecast stock prices using time series analysis. Dive into the world of AI-driven financial forecasting with us! 🌟
