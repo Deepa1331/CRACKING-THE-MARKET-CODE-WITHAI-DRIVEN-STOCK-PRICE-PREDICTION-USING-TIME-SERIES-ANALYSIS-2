@@ -131,7 +131,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-**Author**: Kamali S.D  
+**Author**:Deepa s
+**Github Profile Link**: https://github.com/Deepa1331/CRACKING-THE-MARKET-CODE-WITHAI-DRIVEN-STOCK-PRICE-PREDICTION
 **Institution**: Sri Ramanujar Engineering College  
 **Department**: Computer Science and Engineering  
 **Date**: May 10, 2025
